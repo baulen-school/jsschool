@@ -1,0 +1,5 @@
+# Redirect default Netlify subdomain to primary domain
+# http://jsschool.netlify.com/* http://jsschool.es/:splat 301!
+*/subscribe http://eepurl.com/dx6e0j 301!
+*/blog https://medium.com/js-school 301!
+* https://medium.com/js-school 301!
